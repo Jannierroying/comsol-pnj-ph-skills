@@ -1,0 +1,3 @@
+interface:
+  display_name: "PNJ/PH 已验证模型参考库"
+  short_description: "积累用户确认可行的COMSOL模型，记录参数、证据与复用差异"

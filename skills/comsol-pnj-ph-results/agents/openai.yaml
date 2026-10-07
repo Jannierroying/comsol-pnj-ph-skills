@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL：结果处理"
+  short_description: "提取 PNJ/PH 指标并检查收敛、分支和数值伪影"
+  default_prompt: "使用 $comsol-pnj-ph-results，分析我的 COMSOL PNJ/PH 结果并核查峰值、FWHM、长度和收敛。"

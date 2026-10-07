@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL：复杂机制"
+  short_description: "处理金属、张量、GRIN、反射、SPP 和复杂光源的专门设置"
+  default_prompt: "使用 $comsol-pnj-ph-advanced，处理这个 PNJ/PH 模型中特殊材料、光源或边界的 COMSOL 6.3 设置。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL：PNJ/PH 总入口"
+  short_description: "调用一次，按目标组合基础、复现、创造及结果模块"
+  default_prompt: "使用 $comsol-pnj-ph，按我的目标自动选择所需模式与辅助模块，并用 COMSOL 6.3 波长域给出具体方案。"

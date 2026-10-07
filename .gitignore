@@ -1,0 +1,11 @@
+# Generated simulations and local runtime state
+*.mph
+*.mph.*
+*.class
+*.log
+*.pdf
+__pycache__/
+runtime_prefs/
+projects/
+.env
+.env.*

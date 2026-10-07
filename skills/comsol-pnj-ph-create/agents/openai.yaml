@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL：创造研究"
+  short_description: "本地和网络检索、理论筛查、讨论方案，再试验新 PNJ/PH"
+  default_prompt: "使用 $comsol-pnj-ph-create，分析我的新想法及本地和网络文献，先论证并与我讨论，再开展 COMSOL 试验。"

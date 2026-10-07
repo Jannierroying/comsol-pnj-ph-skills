@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL：基础 PNJ/PH"
+  short_description: "简单微粒生成 PNJ 或 PH，主动设参并按波长域步骤建模"
+  default_prompt: "使用 $comsol-pnj-ph-basic，在 COMSOL 6.3 中用简单模型生成 PNJ 或 PH，主动给参数和操作步骤。"

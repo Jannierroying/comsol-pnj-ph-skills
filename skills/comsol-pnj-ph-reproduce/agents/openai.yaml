@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL：文献与模型复现"
+  short_description: "核对文献或已有模型，改参并完整迁移到 COMSOL 6.3"
+  default_prompt: "使用 $comsol-pnj-ph-reproduce，把这篇文献或已有模型按原始参数在 COMSOL 6.3 复现，再替换我指定的参数。"

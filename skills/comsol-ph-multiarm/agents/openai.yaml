@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL：多臂双椭圆专例"
+  short_description: "复现最终版论文的同心双椭圆核壳 PNJ 与多臂 PH"
+  default_prompt: "使用 $comsol-ph-multiarm，在 COMSOL 6.3 波长域复现《最终版.pdf》的代表性 PNJ、三臂与四臂案例。"
